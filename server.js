@@ -4,7 +4,7 @@ console.log(process.env);
 
 
 var http = require("http");
-var port = process.env.PORT || 3000;
+var port = process.env.port || 3000;
 
 http.createServer(function(request, response){
 
