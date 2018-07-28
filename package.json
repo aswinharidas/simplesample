@@ -1,0 +1,19 @@
+{
+  "name": "simplesample",
+  "version": "0.0.1",
+  "description": "This is a simple sample to test HEROKU deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/aswinharidas/simplesample"
+  },
+  "keywords": [
+    "Heroku",
+    "simplesample"
+  ],
+  "author": "aswinharidas2013@gmail.com",
+  "license": "ISC"
+}
